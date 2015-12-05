@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="initialPoolSize">10</property>
+		<property name="maxPoolSize">30</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://192.168.1.43:3306/smarthouse?characterEncoding=UTF-8</property>
+		<property name="user">root</property>
+		<property name="password">900324</property>
+	</default-config>
+</c3p0-config> 

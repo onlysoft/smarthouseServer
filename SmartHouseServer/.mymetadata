@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SmartHouseServer"
+  id="myeclipse.1387353784752"
+  context-root="/SmartHouseWeb"
+  j2ee-spec="5.0"
+  archive="SmartHouseServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

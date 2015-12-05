@@ -1,0 +1,23 @@
+1、有哪些表？
+	user（id，name，pwd）
+	gatetable(id,gateId,userId,status(停用/启用),name)
+	DeviceTypeTable(typeid,name)
+	devicesTable(id,deviceId,gateId,name,typeId,typeName，maxNum(该设备支持存放的最大临时记录数))
+	OnlineTable(deviceId,Time)  在线状态表
+	danweiTable(id,name)
+	Tempstatus(id,deviceId,status,values,danweiId,danweiName,time(上次更新时间)) 临时状态表
+	
+	
+	
+2014-1-09
+管理员录入网关
+普通用户录入并激活网关
+
+设备改名 加配置（网关也要）
+
+
+
+
+								
+	
+	

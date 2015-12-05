@@ -1,0 +1,4 @@
+第一次上报
+{packeType:"1",{gateId:12,[{deviceId,type,status},{deviceId,type,status},{deviceId,type,status}]}} 
+
+暂定为 LoginOrLoginOutPacket
